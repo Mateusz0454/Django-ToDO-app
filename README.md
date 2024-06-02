@@ -22,7 +22,7 @@
 To get this project, download in zip or  run the following command inside your git enabled terminal:
 
 ```bash
-$ git clone https://github.com/shreys7/django-todo.git
+$ git clone https://github.com/Mateusz0454/Django-ToDO-app.git
 ```
 
 You will need the Django library installed on your computer for this, for example via pip:
